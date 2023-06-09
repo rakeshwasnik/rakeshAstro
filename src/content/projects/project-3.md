@@ -1,7 +1,7 @@
 ---
 inProgress: false
-title: Project title
+title: React Blog
 img_alt: project image alt text
-link: https://github.com/veranikabarel?tab=repositories
-tags: ['React', 'CSS', 'Typescript']
+link: https://github.com/rakeshwasnik/react-blog
+tags: ['React', 'CSS', 'dbjson']
 ---
